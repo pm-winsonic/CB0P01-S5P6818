@@ -1,0 +1,2 @@
+# CB0P01-S5P6818
+A SBC based on S5P6818 SOC
